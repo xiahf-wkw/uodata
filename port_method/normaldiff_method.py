@@ -8,6 +8,7 @@ class ptsj(unittest.TestCase):
         normaldiff = normaldiffapiv3.json()
         self.assertEqual(201,normaldiff['code'])
     def test2_msg(self):
+        """测试是否需要升级"""
         normaldiff = normaldiffapiv3.json()
         if self.assertEqual(201,normaldiff['code']):
             return ( '{}'.format(normaldiff['msg']))
