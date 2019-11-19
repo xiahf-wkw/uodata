@@ -5,7 +5,7 @@ import requests
 normaldiffapiv3 = requests.post(url='http://update.app.2345.com/backend/index.php?r=NormalDiffApiV3&&test',
                                 data={
                                     'authkey':'f8b446102d719202098751b3326ca138',
-                                      'data':'HRoXR1FEbkZXFkRYVlwSCBIBFgcXHUBGXVtyBhdYUF1EAkBXAwUIAFZWVgEBVgMLAQ1dVgVQB'
+                                      'xuexi_@d':'HRoXR1FEbkZXFkRYVlwSCBIBFgcXHUBGXVtyBhdYUF1EAkBXAwUIAFZWVgEBVgMLAQ1dVgVQB'
                                              'AoFVw5aVwcCXAVeABYYFFRIRkYNE0JuRQIACwpYR1gFWl1tVQsAX11dCmQXBAQEAwpuEQcBCw'
                                              'BDUR1YXFxGWRdSRFdfPAJBV2ceVAFoQQYBAgBIa0QJAgIARVBca0ABUgEBCGoWUQEBCl4OWgE'
                                              'DBQEEBlQDBg0ACG5FCQgFB0xAHxFdRTwXVEFLD1cMFg4UCBIeRlRZWFxeV1wbAhVGUk9SV1lF'
